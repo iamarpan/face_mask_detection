@@ -1,0 +1,5 @@
+tqdm==4.31.1
+numpy==1.16.2
+matplotlib==3.0.3
+scikit_learn==0.24.1
+opencv_python==4.5.1.48
